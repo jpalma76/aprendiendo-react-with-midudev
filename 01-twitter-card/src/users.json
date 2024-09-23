@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Juan Palma Álvarez",
+        "userName": "jpalma76",
+        "isFollowing": true
+    },
+    {
+        "name": "JuMiguel Ángel Durán",
+        "userName": "midudev",
+        "isFollowing": false
+    },
+    {
+        "name": "Pablo Hernandez",
+        "userName": "pheralb_",
+        "isFollowing": true
+    },
+    {
+        "name": "Héctor de León",
+        "userName": "@powerdeleon",
+        "isFollowing": false
+    }
+]
