@@ -21,6 +21,11 @@ const users = [
       "name": "Héctor de León",
       "userName": "powerhdeleon",
       "isFollowing": false
+   },
+   {
+      "name": "Nicolás Schürman",
+      "userName": "_nasch_",
+      "isFollowing": true
    }
 ]
 
